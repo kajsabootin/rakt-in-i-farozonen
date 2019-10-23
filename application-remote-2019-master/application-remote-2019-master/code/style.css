@@ -1,0 +1,12 @@
+/* Example styling of a h1 element */
+h1 {
+  color: #8a84fb;
+  font-family: 'Helvetica';
+}
+p {
+  color: #00FACC;
+  font-family: 'Helvetica';
+}
+body {
+  background: #FF0000;
+}
